@@ -4,7 +4,7 @@ This ground–breaking partnership between Arm & GitHub unites the world’s mos
 
 Together we are revolutionizing the software development experience for developers – enabling them to write once and deploy everywhere.
 
-Arm is GitHub’s 2024 Overall Technology Partner of the Year!
+Arm is GitHub’s 2026 Overall Technology Partner of the Year!
 
 <p align="center"><img src=https://github.com/user-attachments/assets/b32ac0e5-8b7b-406e-b081-3764a78bdda4 /></p>
 
@@ -27,7 +27,7 @@ The GitHub Arm-hosted runners offer significant benefits for developers:
 Native performance: Execute your build and test cycles directly on Arm Neoverse-based processors. This eliminates the overhead and complexities tied to instruction emulation and cross-compilation.
 Integrated Workflow:  Experience a seamless integration within the familiar GitHub Actions environment, making your development process more straightforward.
 Cost-effectiveness: Enjoy the convenience and cost savings that come with the GitHub hosted runner infrastructure.
-Arm Linux and Windows runners are now [generally available](https://github.blog/changelog/2024-09-03-github-actions-arm64-linux-and-windows-runners-are-now-generally-available/) in Teams and Enterprise Accounts ... 
+Arm Linux and Windows runners are now [generally available](https://github.blog/changelog/2026-09-03-github-actions-arm64-linux-and-windows-runners-are-now-generally-available/) in Teams and Enterprise Accounts ... 
 
 AND ... [free in public reposities](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/) (Private Preview)!!
 
@@ -47,4 +47,4 @@ Here are some articles and links that provide more information about how to use 
 
 ## Contact Us
 
-For any queries or support, please reach out to us at [support@arm.com].
+For any queries or support, please reach out to us at [ugba908@gmail.com].
